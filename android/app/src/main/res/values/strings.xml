@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudyOS AI</string>
+    <string name="syllabus_title">Syllabus Tracker</string>
+    <string name="timetable_title">Smart Timetable</string>
+    <string name="pw_batch_title">PW Udaan Batch</string>
+    <string name="ai_coach_title">AI Study Coach</string>
+    <string name="exam_countdown_title">Exam Countdown</string>
+    <string name="backlog_title">Backlog Manager</string>
+    <string name="analytics_title">Performance Analytics</string>
+    <string name="settings_title">Settings</string>
+    <string name="notification_channel_name">Study Reminders</string>
+    <string name="notification_channel_desc">Daily reminders for study sessions, PW lectures, and revisions</string>
+</resources>

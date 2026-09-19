@@ -1,0 +1,6 @@
+{
+  "name": "StudyOS AI - Class 10 Android Study Planner",
+  "description": "Complete production-ready Android study planner app for Class 10 students built with Kotlin, Jetpack Compose, and Room Database.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
